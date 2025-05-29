@@ -1,0 +1,31 @@
+transformers==4.48.0
+hydra-core
+datasets==2.19
+scikit-learn
+rank_bm25
+accelerate==1.3.0
+nltk
+dppy
+openai
+faiss-gpu
+spacy
+networkx
+more_itertools
+inflect
+progressbar
+edit_distance
+overrides
+numpy<2.0.0
+# for math evaluation
+latex2sympy
+latex2sympy2
+rich
+fraction
+openai
+sympy
+peft
+sacrebleu>=2.3.2
+#antlr4-python3-runtime==4.7.2
+# not compatible with inference
+#FlagEmbedding
+deepspeed==0.9.5
